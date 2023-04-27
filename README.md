@@ -11,4 +11,6 @@ This repository aims to have a list of technology events that are emerging and b
  * 21: [Pycon US](https://us.pycon.org/2023/) (Utah, US) Hybrid
  * 22: [International Women Day IWD 2023](https://womentechmakers.mx/iwdmx-2023) (CDMX - México) Hybrid 
  * 22: [YucaDevFest Merida 2023](https://www.eventbrite.com/e/yucadevfest-merida-2023-tickets-607953303697) (Mérida,Yucatán - México) Face-to-Face
- 
+ * 27: [Jornadas de Ingeniería de Software de Uruguay](https://is.uy/jis-uy-2023/) (Montevideo - Uruguay) Face-to-Face
+ * 27: [Día internacional de las niñas en las TIC](http://www.ideatic.mx/ninastic/) (CDMX - México) Face-to-Face
+ * 29: [MITCONF] (https://mujeresit.com/mitconf/) (Uruguay) Virtual
