@@ -16,4 +16,4 @@ This repository aims to have a list of technology events that are emerging and b
  * 29: [MITCONF](https://mujeresit.com/mitconf/) (Uruguay) Virtual
 
 **Mayo**
-* 9-10: [OPEN WORKS: MariaDB] (https://openworks.mariadb.com/event/03457861-7fa6-431f-9b9d-5d65c8649d69/websitePage:50233fd3-475e-4fe2-b820-73f35fecb6ff) Hybrid
+* 9-10: [OPEN WORKS: MariaDB](https://openworks.mariadb.com/event/03457861-7fa6-431f-9b9d-5d65c8649d69/websitePage:50233fd3-475e-4fe2-b820-73f35fecb6ff) Hybrid
