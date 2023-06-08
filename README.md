@@ -21,3 +21,6 @@ This repository aims to have a list of technology events that are emerging and b
 
 **Junio**
 * 13: [Bear Summit 2023](beamsummit.org/) (New York - USA) Face-to-Face
+
+**July**
+* 8-9: [El Hackathon Vol I: Publifyer](https://guayaquiltech.ec/hackathon/) (Guayaquil - Ecuador) Face-to-Face
