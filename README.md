@@ -15,11 +15,11 @@ This repository aims to have a list of technology events that are emerging and b
  * 27: [Día internacional de las niñas en las TIC](http://www.ideatic.mx/ninastic/) (CDMX - México) Face-to-Face
  * 29: [MITCONF](https://mujeresit.com/mitconf/) (Uruguay) Virtual
 
-**Mayo**
+**May**
 * 9-10: [OPEN WORKS: MariaDB](https://openworks.mariadb.com/event/03457861-7fa6-431f-9b9d-5d65c8649d69/websitePage:50233fd3-475e-4fe2-b820-73f35fecb6ff) Hybrid
 
 
-**Junio**
+**June**
 * 13: [Bear Summit 2023](beamsummit.org/) (New York - USA) Face-to-Face
 
 **July**
