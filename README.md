@@ -25,5 +25,5 @@ This repository aims to have a list of technology events that are emerging and b
 **Julio**
 * 06: [Rust Haskell meetup](https://www.meetup.com/rust-mx/events/294152158/) (México) Online
 * 07: [Meetup tech Mérida](https://tally.so/r/nGKrpp) (Mérida, Yucatan)face-to-face.
-
+* 8, 9: [El Hackathon](https://guayaquiltech.ec/hackathon/) (Guayaquil)  Edificio Telconet Prosperina de la ciudad de Guayaquil
 
