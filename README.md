@@ -27,3 +27,5 @@ This repository aims to have a list of technology events that are emerging and b
 * 07: [Meetup tech Mérida](https://tally.so/r/nGKrpp) (Mérida, Yucatan)face-to-face.
 * 8, 9: [El Hackathon](https://guayaquiltech.ec/hackathon/) (Guayaquil)  Edificio Telconet Prosperina de la ciudad de Guayaquil
 
+**Agosto**
+* 30:[AWS Summit Ciudad de México](https://aws.amazon.com/es/events/summits/mexico-city/) AWS Summit Ciudad de México
