@@ -31,4 +31,5 @@ This repository aims to have a list of technology events that are emerging and b
 
 
 **Agosto**
+* 01-03: (Bolivia - Santa Cruz de la Sierra) Construyendo las redes del manana 
 * 30:[AWS Summit Ciudad de México](https://aws.amazon.com/es/events/summits/mexico-city/) AWS Summit Ciudad de México
