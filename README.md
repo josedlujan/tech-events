@@ -31,4 +31,9 @@ This repository aims to have a list of technology events that are emerging and b
 
 
 **Agosto**
+* 4: [Chelas Nite](https://www.eventbrite.com.mx/e/chela-nite-tickets-687346410617) (Ciudad de México)  face-to-face
+* 11:[Women Game Jam 2023](https://docs.google.com/forms/d/e/1FAIpQLSfZNJ1398bbDalSPnhFry4q4hXlewIjMYRBB-lTdK9Pa9VZSw/viewform) Online
+* 18-19:[KCD Guatemala 2023](https://community.cncf.io/kcd-guatemala/) Guatemala Online
+* 24:[PyCon Latam](https://www.pylatam.org/) Monterrey face-to-face
+* 29-31:[Cloud Next'23](https://cloud.withgoogle.com/next) San Francisco-USA, Face-to-Face
 * 30:[AWS Summit Ciudad de México](https://aws.amazon.com/es/events/summits/mexico-city/) AWS Summit Ciudad de México
