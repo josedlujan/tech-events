@@ -37,3 +37,8 @@ This repository aims to have a list of technology events that are emerging and b
 * 24:[PyCon Latam](https://www.pylatam.org/) Monterrey face-to-face
 * 29-31:[Cloud Next'23](https://cloud.withgoogle.com/next) San Francisco-USA, Face-to-Face
 * 30:[AWS Summit Ciudad de México](https://aws.amazon.com/es/events/summits/mexico-city/) AWS Summit Ciudad de México
+
+**Septiembre**
+* 27: [Nerdearla](https://nerdear.la/) (Argentina) Online and face-to-face
+* 20: [KCD El Salvador 2023](https://community.cncf.io/events/details/cncf-kcd-el-salvador-presents-kcd-el-salvador-2023/) (El Salvador) Online and face-to-face
+
