@@ -46,6 +46,7 @@ This repository aims to have a list of technology events that are emerging and b
 * 25: [DevFest Tabasco](https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2023-tabasco/cohost-gdg-villahermosa) (México, Tabasco) Online and face-to-face
 
 **Noviembre**
+* 11: [DevFest Lima 2023](Perú, Lima) face-to-face
 * 14: [Data Day Monterrey](https://sg.com.mx/dataday) (México, Monterrey) face-to-face
 
 
