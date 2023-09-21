@@ -44,6 +44,7 @@ This repository aims to have a list of technology events that are emerging and b
 * 30: [Software Freedom Day](https://openlab.ec/SFD-2023) (Ecuador) Face-to-face
 
 **Octubre**
+* 4-5: [Mobile DevOps Summit](https://summit.bitrise.io/) Online
 * 25: [DevFest Tabasco](https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2023-tabasco/cohost-gdg-villahermosa) (México, Tabasco) Online and face-to-face
 
 **Noviembre**
