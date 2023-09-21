@@ -41,6 +41,7 @@ This repository aims to have a list of technology events that are emerging and b
 **Septiembre**
 * 27: [Nerdearla](https://nerdear.la/) (Argentina) Online and face-to-face
 * 20: [KCD El Salvador 2023](https://community.cncf.io/events/details/cncf-kcd-el-salvador-presents-kcd-el-salvador-2023/) (El Salvador) Online and face-to-face
+* 30: [Software Freedom Day](https://openlab.ec/SFD-2023) (Ecuador) Face-to-face
 
 **Octubre**
 * 25: [DevFest Tabasco](https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2023-tabasco/cohost-gdg-villahermosa) (México, Tabasco) Online and face-to-face
