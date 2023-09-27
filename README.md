@@ -50,6 +50,7 @@ This repository aims to have a list of technology events that are emerging and b
 
 **Noviembre**
 * 11: [DevFest Lima 2023](https://docs.google.com/forms/d/e/1FAIpQLSeEPgwG6Ii6uUUYm2m23tM7ny0wKzLJr16xb7q4GjGOZOOL4g/viewform)(Perú, Lima) face-to-face
+* 11: [AWS Community Day - México 2023](https://awscommunity.mx/communityday/) (Monterrey - México) face-to-face
 * 14: [Data Day Monterrey](https://sg.com.mx/dataday) (México, Monterrey) face-to-face
 
 
