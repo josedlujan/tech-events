@@ -45,6 +45,7 @@ This repository aims to have a list of technology events that are emerging and b
 
 **Octubre**
 * 4-5: [Mobile DevOps Summit](https://summit.bitrise.io/) Online
+* 18: [ROSCon 2023](https://roscon.ros.org/2023/)face-to-face NO
 * 25-26: [Flutter Conf Latam](https://flutterconflatam.dev/#/home) (Medellín, Colombia) face-to-face
 * 25: [DevFest Tabasco](https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2023-tabasco/cohost-gdg-villahermosa) (México, Tabasco) Online and face-to-face
 
@@ -56,3 +57,4 @@ This repository aims to have a list of technology events that are emerging and b
 
 **Diciembre**
 * 02: [JCONF Perú 2023](https://jconf.perujug.org/) (Perú, Lima) face-to-face
+* 09: [Posadev](https://posadev.mx/)(GDL -  Mx) face-to-face
