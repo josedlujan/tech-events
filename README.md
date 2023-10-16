@@ -52,6 +52,7 @@ This repository aims to have a list of technology events that are emerging and b
 * 18: [ROSCon 2023](https://roscon.ros.org/2023/)face-to-face NO
 * 25-26: [Flutter Conf Latam](https://flutterconflatam.dev/#/home) (Medellín, Colombia) face-to-face
 * 25: [DevFest Tabasco](https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2023-tabasco/cohost-gdg-villahermosa) (México, Tabasco) Online and face-to-face
+* 25-27: [Droindcon London](https://london.droidcon.com/) (London-UK) face-to-face
 
 **Noviembre**
 * 11: [DevFest Lima 2023](https://docs.google.com/forms/d/e/1FAIpQLSeEPgwG6Ii6uUUYm2m23tM7ny0wKzLJr16xb7q4GjGOZOOL4g/viewform)(Perú, Lima) face-to-face
