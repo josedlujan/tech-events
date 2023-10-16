@@ -47,6 +47,7 @@ This repository aims to have a list of technology events that are emerging and b
 * 4-5: [Mobile DevOps Summit](https://summit.bitrise.io/) Online
 * 4-5: [DockerCon](https://www.dockercon.com/2023/) (LA - USA) Online and face-to-face
 * 5: [DevFest Mons](https://gdg.community.dev/events/details/google-gdg-mons-presents-devfest-mons-2023/)(Mons)face-to-face
+* 16-17: [JavaCro](https://2023.javacro.hr/eng) (Rovinj-Croatia) face-to-face
 * 18: [ROSCon 2023](https://roscon.ros.org/2023/)face-to-face NO
 * 25-26: [Flutter Conf Latam](https://flutterconflatam.dev/#/home) (Medellín, Colombia) face-to-face
 * 25: [DevFest Tabasco](https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2023-tabasco/cohost-gdg-villahermosa) (México, Tabasco) Online and face-to-face
