@@ -63,3 +63,7 @@ This repository aims to have a list of technology events that are emerging and b
 **Diciembre**
 * 02: [JCONF Perú 2023](https://jconf.perujug.org/) (Perú, Lima) face-to-face
 * 09: [Posadev](https://posadev.mx/)(GDL -  Mx) face-to-face
+
+# 2023
+
+*20: [Super Happy Dev House Cancún](https://bit.ly/shdvcancun1) (Cancún, México) face-to-face
