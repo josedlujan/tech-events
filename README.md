@@ -66,4 +66,4 @@ This repository aims to have a list of technology events that are emerging and b
 
 # 2023
 
-*20: [Super Happy Dev House Cancún](https://bit.ly/shdvcancun1) (Cancún, México) face-to-face
+* 20: [Super Happy Dev House Cancún](https://bit.ly/shdvcancun1) (Cancún, México) face-to-face
