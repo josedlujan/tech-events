@@ -66,4 +66,10 @@ This repository aims to have a list of technology events that are emerging and b
 
 # 2023
 
+**Enero**
 * 20: [Super Happy Dev House Cancún](https://bit.ly/shdvcancun1) (Cancún, México) face-to-face
+
+**Febrero**
+* 2: [CCOSS, KCD GDL](https://ccoss.org/) (GDL, México) face-to-face
+
+**Marzo**
