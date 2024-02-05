@@ -71,5 +71,6 @@ This repository aims to have a list of technology events that are emerging and b
 
 **Febrero**
 * 2: [CCOSS, KCD GDL](https://ccoss.org/) (GDL, México) face-to-face
+* 3: [Crea un widget con SwiftUI](https://gdg.community.dev/events/details/google-gdg-santa-barbara-presents-crea-un-widget-con-swiftui/) online
 
 **Marzo**
