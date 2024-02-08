@@ -75,5 +75,6 @@ This repository aims to have a list of technology events that are emerging and b
 * 21: [Blockchain 101](https://shorturl.at/bhCVY) (Cancún - México) face-to-face
 * 9-10: [TechTon] (𝘁𝘄𝗶𝘁𝗰𝗵.𝘁𝘃/𝗷𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁𝗰𝗵𝗶𝗹𝗲) (Chile) Online
 * 15-16 [Nerd Conf](https://tally.so/r/3jPEvE) (CDMX)  face-to-face
+* 24: [Empaquetar y desplegar aplicacion con Docker](https://www.meetup.com/women-who-code-guatemala/events/298877810/) (Guatemala) face-to-face
 
 **Marzo**
