@@ -74,5 +74,6 @@ This repository aims to have a list of technology events that are emerging and b
 * 3: [Crea un widget con SwiftUI](https://gdg.community.dev/events/details/google-gdg-santa-barbara-presents-crea-un-widget-con-swiftui/) online
 * 21: [Blockchain 101](https://shorturl.at/bhCVY) (Cancún - México) face-to-face
 * 9-10: [TechTon] (𝘁𝘄𝗶𝘁𝗰𝗵.𝘁𝘃/𝗷𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁𝗰𝗵𝗶𝗹𝗲) (Chile) Online
+* 15-16 [Nerd Conf](https://tally.so/r/3jPEvE) (CDMX)  face-to-face
 
 **Marzo**
