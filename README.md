@@ -78,6 +78,7 @@ This repository aims to have a list of technology events that are emerging and b
 * 24: [Empaquetar y desplegar aplicacion con Docker](https://www.meetup.com/women-who-code-guatemala/events/298877810/) (Guatemala) face-to-face
 
 **Marzo**
+* 8: [International's Womens Day 2024 Guatemala](https://gdg.community.dev/events/details/google-gdg-guatemala-presents-iwd-guatemala-2024/) (Guatemala) face-to-face
 * 15: [International's Womens Day 2024 Barranquilla Colombia](https://gdg.community.dev/gdg-barranquilla/) (Barranquilla - Colombia) face-to-face
 
 **Abril**
