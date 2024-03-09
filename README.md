@@ -80,6 +80,7 @@ This repository aims to have a list of technology events that are emerging and b
 **Marzo**
 * 8: [International's Womens Day 2024 Guatemala](https://gdg.community.dev/events/details/google-gdg-guatemala-presents-iwd-guatemala-2024/) (Guatemala) face-to-face
 * 15: [International's Womens Day 2024 Barranquilla Colombia](https://gdg.community.dev/gdg-barranquilla/) (Barranquilla - Colombia) face-to-face
+* 23_ [International's Womens Day 2024 Santiago](https://lu.ma/iwd-santiago) (Santiago Chile) face-to-face
 
 **Abril**
 * 13: [International's Womens Day 2024 GDG Tarija](https://gdg.community.dev/events/details/google-gdg-tarija-presents-international-womens-day-tarija-2024/) (Bolivia) face-to-face
