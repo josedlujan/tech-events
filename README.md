@@ -1,7 +1,30 @@
 # Tech events
 This repository aims to have a list of technology events that are emerging and be fed, corrected and maintained by the same community.
 
+# 2024
 
+**Enero**
+* 20: [Super Happy Dev House Cancún](https://bit.ly/shdvcancun1) (Cancún, México) face-to-face
+
+**Febrero**
+* 2: [CCOSS, KCD GDL](https://ccoss.org/) (GDL, México) face-to-face
+* 3: [Crea un widget con SwiftUI](https://gdg.community.dev/events/details/google-gdg-santa-barbara-presents-crea-un-widget-con-swiftui/) online
+* 21: [Blockchain 101](https://shorturl.at/bhCVY) (Cancún - México) face-to-face
+* 9-10: [TechTon] (𝘁𝘄𝗶𝘁𝗰𝗵.𝘁𝘃/𝗷𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁𝗰𝗵𝗶𝗹𝗲) (Chile) Online
+* 15-16 [Nerd Conf](https://tally.so/r/3jPEvE) (CDMX)  face-to-face
+* 24: [Empaquetar y desplegar aplicacion con Docker](https://www.meetup.com/women-who-code-guatemala/events/298877810/) (Guatemala) face-to-face
+
+**Marzo**
+* 8: [International's Womens Day 2024 Guatemala](https://gdg.community.dev/events/details/google-gdg-guatemala-presents-iwd-guatemala-2024/) (Guatemala) face-to-face
+* 15: [International's Womens Day 2024 Barranquilla Colombia](https://gdg.community.dev/gdg-barranquilla/) (Barranquilla - Colombia) face-to-face
+* 23_ [International's Womens Day 2024 Santiago](https://lu.ma/iwd-santiago) (Santiago Chile) face-to-face
+
+**Abril**
+* 11: [International's Womens Day 2024 WTM Cancún](https://gdg.community.dev/events/details/google-gdg-cancun-presents-iwd-gdg-cancun/) (México) face-to-face
+* 13: [International's Womens Day 2024 GDG Tarija](https://gdg.community.dev/events/details/google-gdg-tarija-presents-international-womens-day-tarija-2024/) (Bolivia) face-to-face
+
+**Octubre**
+* 31: [JS Conf México Guadalajara 2024](https://www.jsconf.mx/) (GDL, México) face-to-face
 
 # 2023
 
@@ -64,27 +87,3 @@ This repository aims to have a list of technology events that are emerging and b
 * 02: [JCONF Perú 2023](https://jconf.perujug.org/) (Perú, Lima) face-to-face
 * 09: [Posadev](https://posadev.mx/)(GDL -  Mx) face-to-face
 
-# 2023
-
-**Enero**
-* 20: [Super Happy Dev House Cancún](https://bit.ly/shdvcancun1) (Cancún, México) face-to-face
-
-**Febrero**
-* 2: [CCOSS, KCD GDL](https://ccoss.org/) (GDL, México) face-to-face
-* 3: [Crea un widget con SwiftUI](https://gdg.community.dev/events/details/google-gdg-santa-barbara-presents-crea-un-widget-con-swiftui/) online
-* 21: [Blockchain 101](https://shorturl.at/bhCVY) (Cancún - México) face-to-face
-* 9-10: [TechTon] (𝘁𝘄𝗶𝘁𝗰𝗵.𝘁𝘃/𝗷𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁𝗰𝗵𝗶𝗹𝗲) (Chile) Online
-* 15-16 [Nerd Conf](https://tally.so/r/3jPEvE) (CDMX)  face-to-face
-* 24: [Empaquetar y desplegar aplicacion con Docker](https://www.meetup.com/women-who-code-guatemala/events/298877810/) (Guatemala) face-to-face
-
-**Marzo**
-* 8: [International's Womens Day 2024 Guatemala](https://gdg.community.dev/events/details/google-gdg-guatemala-presents-iwd-guatemala-2024/) (Guatemala) face-to-face
-* 15: [International's Womens Day 2024 Barranquilla Colombia](https://gdg.community.dev/gdg-barranquilla/) (Barranquilla - Colombia) face-to-face
-* 23_ [International's Womens Day 2024 Santiago](https://lu.ma/iwd-santiago) (Santiago Chile) face-to-face
-
-**Abril**
-* 11: [International's Womens Day 2024 WTM Cancún](https://gdg.community.dev/events/details/google-gdg-cancun-presents-iwd-gdg-cancun/) (México) face-to-face
-* 13: [International's Womens Day 2024 GDG Tarija](https://gdg.community.dev/events/details/google-gdg-tarija-presents-international-womens-day-tarija-2024/) (Bolivia) face-to-face
-
-**Octubre**
-* 31: [JS Conf México Guadalajara 2024](https://www.jsconf.mx/) (GDL, México) face-to-face
