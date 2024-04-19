@@ -85,3 +85,6 @@ This repository aims to have a list of technology events that are emerging and b
 **Abril**
 * 11: [International's Womens Day 2024 WTM Cancún](https://gdg.community.dev/events/details/google-gdg-cancun-presents-iwd-gdg-cancun/) (México) face-to-face
 * 13: [International's Womens Day 2024 GDG Tarija](https://gdg.community.dev/events/details/google-gdg-tarija-presents-international-womens-day-tarija-2024/) (Bolivia) face-to-face
+
+**Octubre**
+* 31: [JS Conf México Guadalajara 2024](https://www.jsconf.mx/) (GDL, México) face-to-face
