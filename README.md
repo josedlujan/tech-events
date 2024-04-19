@@ -26,6 +26,9 @@ This repository aims to have a list of technology events that are emerging and b
 **Octubre**
 * 31: [JS Conf México Guadalajara 2024](https://www.jsconf.mx/) (GDL, México) face-to-face
 
+**Noviembre**
+* 1:  [JS Conf México Guadalajara 2024](https://www.jsconf.mx/) (GDL, México) face-to-face
+
 # 2023
 
  **April**
