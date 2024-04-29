@@ -25,6 +25,7 @@ This repository aims to have a list of technology events that are emerging and b
 * 30: [Android WorldWide](https://android-worldwide.com/) (Online) Online
 
 **Mayo**
+* 15-23: [PyConUS](https://us.pycon.org/2024/) (Pittsburgh, Pennsykvabua. USA) face-to-face and Online
 * 22-24: [KotlinConf](https://kotlinconf.com/) (Copenhagen, Dinamarca) face-to-face
 
 **Junio**
