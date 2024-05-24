@@ -30,6 +30,7 @@ This repository aims to have a list of technology events that are emerging and b
 
 **Junio**
 * 9: [PyCon Colombia 2024](https://2024.pycon.co/en) (Medellin, Colombia) face-to-face
+* 14: [INGENIUS](https://www.eventbrite.com.mx/e/ingenius-tickets-901726427017?aff=ebdssbcategorybrowse&keep_tld=1) (Toluca, México) face-to-face
 
 **Julio**
 * 17: [Techweek 2024](https://www.eventbrite.com.mx/e/techweek-2024-tickets-800052286927?aff=ebdssbcategorybrowse) (CDMX, México) face-to-face
