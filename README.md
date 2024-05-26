@@ -64,6 +64,7 @@ This repository aims to have a list of technology events that are emerging and b
 * 06: [Rust Haskell meetup](https://www.meetup.com/rust-mx/events/294152158/) (México) Online
 * 07: [Meetup tech Mérida](https://tally.so/r/nGKrpp) (Mérida, Yucatan)face-to-face.
 * 8, 9: [El Hackathon](https://guayaquiltech.ec/hackathon/) (Guayaquil)  Edificio Telconet Prosperina de la ciudad de Guayaquil
+* 19: [BSides](https://bsidescdmx.org/) (CDMX, Mexico) face-to-face
 * 24-28: [Intelcon 2023](https://www.ginseg.com/intelcon/) (España) Online
 * 26: [Java Collections | Microservices con AWS Beanstalk](https://www.meetup.com/jvm-mx/events/294779897/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) (CDMX - México) PRESENCIAL Con transmisión en el canal de javaMéxico
 
