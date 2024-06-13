@@ -102,3 +102,5 @@ This repository aims to have a list of technology events that are emerging and b
 * 02: [JCONF Perú 2023](https://jconf.perujug.org/) (Perú, Lima) face-to-face
 * 09: [Posadev](https://posadev.mx/)(GDL -  Mx) face-to-face
 
+**Julio**
+*04: [IA Generativa AWS](https://generative-ai-cdmx.splashthat.com/) (CDMX, Mexico)
