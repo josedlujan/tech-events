@@ -36,6 +36,7 @@ This repository aims to have a list of technology events that are emerging and b
 **Julio**
 * 17: [Techweek 2024](https://www.eventbrite.com.mx/e/techweek-2024-tickets-800052286927?aff=ebdssbcategorybrowse) (CDMX, México) face-to-face
 **Octubre**
+* 5: [AWS Community Day](https://day.awscommunity.mx/)  (GDL, México) face-to-face
 * 31: [JS Conf México Guadalajara 2024](https://www.jsconf.mx/) (GDL, México) face-to-face
 
 **Noviembre**
