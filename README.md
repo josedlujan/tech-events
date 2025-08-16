@@ -1,7 +1,13 @@
 # Tech events
 This repository aims to have a list of technology events that are emerging and be fed, corrected and maintained by the same community.
 
-# 2024
+## 2025
+
+**Agosto**
+
+* 19: [Ekoparty Hackademy | Clase abierta: Bug Bounty](https://www.eventbrite.com.ar/e/1591962686249?aff=oddtdtcreator) (Online)
+
+## 2024
 
 **Enero**
 * 20: [Super Happy Dev House Cancún](https://bit.ly/shdvcancun1) (Cancún, México) face-to-face
@@ -46,7 +52,7 @@ This repository aims to have a list of technology events that are emerging and b
 **Noviembre**
 * 1:  [JS Conf México Guadalajara 2024](https://www.jsconf.mx/) (GDL, México) face-to-face
 
-# 2023
+## 2023
 
  **April**
  * 21: [Commit Conf ](https://2023.commit-conf.com/) (Madrid - España) Face-to-Face
